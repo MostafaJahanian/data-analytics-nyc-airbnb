@@ -1,0 +1,15 @@
+# Raw data files (obtain from DataCamp)
+airbnb_price.csv
+airbnb_room_type.xlsx
+airbnb_last_review.tsv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
